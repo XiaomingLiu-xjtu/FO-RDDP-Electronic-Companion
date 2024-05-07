@@ -1,0 +1,1 @@
+This is the electronic companion for the work 'First Order Accelerated Robust Dual Dynamic Programming for Robust Economic Dispatch'. It shows more details about the formulation used in the technique work. The definitions of the variables and parameters are in accordance with the main content.
